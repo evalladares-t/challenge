@@ -1,0 +1,5 @@
+#    pip install -r requirements.txt
+#
+django-dotenv==1.4.2         # via -r requirements.in
+psycopg2==2.9.6              # vvia -r requirements.in
+djangorestframework==3.14.0  # vvia -r requirements.in

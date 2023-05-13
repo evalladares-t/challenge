@@ -1,0 +1,14 @@
+.vscode
+.env
+.project
+.python-version
+static/admin/
+static/rest_framework/
+static/rest_framework_swagger/
+assets/node_modules/
+database
+db.sqlite3
+#ignore envs
+#.appconfig-env
+#.appconfig-env-d
+
